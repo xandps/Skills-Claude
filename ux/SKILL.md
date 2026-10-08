@@ -1,6 +1,6 @@
 ---
 name: ux
-description: Diretrizes de UI/UX, design system e frontend para criar ou melhorar interfaces web (landing pages, sites, dashboards, telas de app, componentes, redesigns). Use sempre que a tarefa envolver construir, estilizar, revisar ou refatorar a interface visual de um site ou aplicação.
+description: UI/UX guidelines, design system, and frontend practices for creating or improving web interfaces (landing pages, websites, dashboards, app screens, components, and redesigns). Use whenever the task involves building, styling, reviewing, or refactoring the visual interface of a website or application.
 ---
 
 # Role and Purpose
